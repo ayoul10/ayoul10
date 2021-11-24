@@ -1,7 +1,9 @@
-### Hi there![image](https://user-images.githubusercontent.com/45453703/143318650-2b24a71f-0e90-4a91-8dd7-42ed066489f5.png)
+[About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)
+
+### Hi there!:wave:
 , I'm Arcadia Youlten
 ##### Computer Engineering Student by Day, Illustrator by Night
-About Me![About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)
+About Me!
 
 - 🔭 I’m currently working on RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
 - 😄 Pronouns: She/Her 
