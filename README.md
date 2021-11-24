@@ -6,14 +6,18 @@
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
 ##### - I also do some digital illustration in my spare time.
 
-<div align="right">
-### - Current Project : RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
-</div> 
+<div>
+  <div align="right">
+  ### - Current Project : RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
+  </div> 
 
-### - Currently Learning :
-- Computer Architecture
-- Distributed Architecture 
-- Data Mining 
+  <div align="left">
+  ### - Currently Learning :
+  - Computer Architecture
+  - Distributed Architecture 
+  - Data Mining 
+    </div>
+</div>
 
 ### - Hobbies : 
 - Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
