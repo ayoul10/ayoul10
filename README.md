@@ -20,12 +20,12 @@
     <td> Computer Architecture</td>
  </tr>
  <tr>
-   <td>Software Methodology Design Patterns </td>
+   <td>Software Methodology Design Patterns</td>
    <td>Distributed Architecture</td>
  </tr>
  <tr>
   <td>Cybersecurity Final Thesis</td>
-  <td><td>Data Mining</td>
+  <td>Data Mining</td>
  </tr>
 </table>
 
