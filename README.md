@@ -6,7 +6,9 @@
 
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
 ### - I also do some digital illustration in my spare time.
+
 <br>
+
 ## - Pronouns: She/Her 
 
 <table border="0">
