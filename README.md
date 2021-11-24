@@ -18,9 +18,9 @@
  </tr>
  <tr>
     <td> RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) </td>
-    <td> - Computer Architecture
-  - Distributed Architecture 
-  - Data Mining</td>
+    <td> Computer Architecture</td>
+    <td> Distributed Architecture</td>
+    <td> Data Mining </td>
  </tr>
 </table>
 
