@@ -19,11 +19,13 @@
     <td> RPC Distributed Architecture Program with <a href="https://github.com/Kudos01">Kudos01</a></td>
     <td> Computer Architecture</td>
  </tr>
-  <td> </td>
-  <td><td> Distributed Architecture</td>
+ <tr>
+   <td>Software Methodology Design Patterns </td>
+   <td>Distributed Architecture</td>
+ </tr>
  <tr>
   <td>Cybersecurity Final Thesis</td>
-  <td><td> Data Mining</td>
+  <td><td>Data Mining</td>
  </tr>
 </table>
 
