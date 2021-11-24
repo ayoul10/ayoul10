@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
-[![ayoul10's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10)](https://github.com/ayoul10/github-readme-stats)
 
-![ayoul10's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ayoul10/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&theme=dark&show_icons=true)
 
 -->
