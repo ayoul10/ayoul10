@@ -6,7 +6,7 @@
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
 ##### - I also do some digital illustration in my spare time.
 
-<div **align="right"**>
+<div align="right">
 ### - Current Project : RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
 </div> 
 
