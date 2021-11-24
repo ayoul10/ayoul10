@@ -8,28 +8,16 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px"> 📝 Current Project: </b></td>
+    <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td> RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) </td>
+    <td> - Computer Architecture
+  - Distributed Architecture 
+  - Data Mining</td>
  </tr>
 </table>
-
-
-<div>
-  <div align="right">
-  ### - Current Project : RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
-  </div> 
-
-  <div align="left">
-  ### - Currently Learning :
-  - Computer Architecture
-  - Distributed Architecture 
-  - Data Mining 
-    </div>
-</div>
 
 ### - Hobbies : 
 - Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
@@ -43,16 +31,6 @@
 
 
 - 😄 Pronouns: She/Her 
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-
-| --------------- | --------------- | --------------- |
-
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 <br>
 
