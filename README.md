@@ -53,47 +53,17 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&theme=tokyonight&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoul10&layout=compact&theme=tokyonight)](https://github.com/ayoul10/github-readme-stats)
----
-
 ### Want to get in touch? Let's talk!
-[![Linkedin Badge](https://img.shields.io/badge/-ArcadiaYoulten-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayoul10/)](https://www.linkedin.com/in/ayoul10/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arcadia_Youlten-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayoul10/)](https://www.linkedin.com/in/ayoul10/)
 [![Gmail Badge](https://img.shields.io/badge/-youltenarcadia@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youltenarcadia@gmail.com)](youltenarcadia@gmail.com)
+
 ---
 
-### - Hobbies : 
-- Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
-- Dungeons and Dragons :dragon_face:
-- Illustration 🎨
--  
+<a href="https://github.com/ayoul10/ayoul10/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoul10&theme=material-palenight&langs_count=3" />
+</a>
+<a href="https://github.com/ayoul10/ayoul10/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoul10&show_icons=true&line_height=27&count_private=true&theme=material-palenight"/>
+</a>
 
-
-
-<!--
-**ayoul10/ayoul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-
-### Hi there 👋, I'm Arcadia Youlten
-#### Computer Engineering Student by Day, Illustrator by Night
-![Computer Engineering Student by Day, Illustrator by Night](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-
-
-
-Skills: JAVA/ C / C++ / PYTHON / KALI LINUX / NESSUS / METASPLOIT /  / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I've lived in six different countries!  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayoul10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayoul10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](youltenarcadia@gmail.com)  
-
-
-
-
--->
+---
