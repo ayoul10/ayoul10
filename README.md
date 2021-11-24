@@ -10,6 +10,7 @@
 
 <br>
 
+<table>
  <tr>
     <td><b style="font-size:30px"> 📝 Current Projects: </b></td>
     <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
