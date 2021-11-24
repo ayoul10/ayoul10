@@ -4,29 +4,29 @@
 # About me 💬 :
 
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
-#### - I also do some digital illustration in my spare time.
+##### - I also do some digital illustration in my spare time.
 
+<div **align="right"**>
+### - Current Project : RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
+</div> 
 
-
-### - Learning :
-- ✨ Computer Architecture
-- ✨ Generative Adversarial Networks
+### - Currently Learning :
+- Computer Architecture
+- Distributed Architecture 
+- Data Mining 
 
 ### - Hobbies : 
-- ✨ Reading Sci-fi and Fantasy Novels :space_invader: 
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
+- Dungeons and Dragons :dragon_face:
+- Illustration 🎨
+-  
 
 </br>
 </br>
 </br>
 
-About Me!
 
-- 🔭 I’m currently working on RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I've lived in six different countries!
 
 <br>
 
