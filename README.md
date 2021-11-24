@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ayoul10/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoul10&layout=compact)](https://github.com/ayoul10/github-readme-stats)
+
 <!--
 **ayoul10/ayoul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
