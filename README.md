@@ -1,7 +1,7 @@
 ![About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)
 <br>
 <br>
-# Hi there!:wave: I'm Arcadia Youlten
+# Hi there!:wave: I'm Arcadia
 ## About me 💬 :
 #### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia living in Spain.
 
@@ -56,10 +56,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&theme=tokyonight&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoul10&layout=compact&theme=tokyonight)](https://github.com/ayoul10/github-readme-stats)
 ---
 
-### Connect with me:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayoul10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayoul10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](youltenarcadia@gmail.com)  
-
+### Want to get in touch? Let's talk!
+[![Linkedin Badge](https://img.shields.io/badge/-ArcadiaYoulten-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayoul10/)](https://www.linkedin.com/in/ayoul10/)
+[![Gmail Badge](https://img.shields.io/badge/-youltenarcadia@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youltenarcadia@gmail.com)](youltenarcadia@gmail.com)
 ---
 
 ### - Hobbies : 
