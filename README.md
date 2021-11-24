@@ -1,7 +1,27 @@
 ![About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)
 
-### Hi there!:wave: I'm Arcadia Youlten
-##### Computer Engineering Student by Day, Illustrator by Night
+# Hi there!:wave: I'm Arcadia Youlten
+# About me 💬 :
+
+### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
+#### - I also do some digital illustration in my spare time.
+
+
+
+### - Learning :
+- ✨ Computer Architecture
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Reading Sci-fi and Fantasy Novels :space_invader: 
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
 About Me!
 
 - 🔭 I’m currently working on RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
@@ -13,10 +33,10 @@ About Me!
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />]
-<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png"/>]
-<img align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />]
-<img align="left" alt="C++" width="26px" src="https://i.imgur.com/zINUxVf.png" />]
+<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
+<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png"/>
+<img align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />
+<img align="left" alt="C++" width="26px" src="https://i.imgur.com/zINUxVf.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -40,7 +60,7 @@ About Me!
 
 Here are some ideas to get you started:
 
-
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 
 ### Hi there 👋, I'm Arcadia Youlten
