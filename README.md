@@ -6,6 +6,18 @@
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
 ##### - I also do some digital illustration in my spare time.
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
 <div>
   <div align="right">
   ### - Current Project : RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) 
