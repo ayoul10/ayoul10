@@ -44,19 +44,16 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-Nessus-informational?style=flat&logo=nessus&logoColor=white&color=ab69cf)
+![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=ab69cf)
+![](https://img.shields.io/badge/Tools-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
 <br>
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=643578)
 
+---
 
-### - Hobbies : 
-- Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
-- Dungeons and Dragons :dragon_face:
-- Illustration 🎨
--  
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&theme=tokyonight&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoul10&layout=compact&theme=tokyonight)](https://github.com/ayoul10/github-readme-stats)
 ---
 
 ### Connect with me:
@@ -65,7 +62,13 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoul10&theme=tokyonight&show_icons=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoul10&layout=compact&theme=tokyonight)](https://github.com/ayoul10/github-readme-stats)
+### - Hobbies : 
+- Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
+- Dungeons and Dragons :dragon_face:
+- Illustration 🎨
+-  
+
+
 
 <!--
 **ayoul10/ayoul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
