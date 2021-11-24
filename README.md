@@ -6,21 +6,23 @@
 
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
 ### - I also do some digital illustration in my spare time.
+## - Pronouns: She/Her 
 
 <br>
 
-## - Pronouns: She/Her 
-
-<table border="0">
  <tr>
-    <td><b style="font-size:30px"> 📝 Current Project: </b></td>
+    <td><b style="font-size:30px"> 📝 Current Projects: </b></td>
     <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
  </tr>
  <tr>
-    <td> RPC Distributed Architecture Program with [Kudos01](https://github.com/Kudos01) </td>
+    <td> RPC Distributed Architecture Program with <a href="https://github.com/Kudos01">Kudos01</a></td>
     <td> Computer Architecture</td>
-    <td> Distributed Architecture</td>
-    <td> Data Mining </td>
+ </tr>
+  <td> </td>
+  <td><td> Distributed Architecture</td>
+ <tr>
+  <td>Cybersecurity Final Thesis</td>
+  <td><td> Data Mining</td>
  </tr>
 </table>
 
