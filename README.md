@@ -1,10 +1,13 @@
 ![About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)
-
+<br>
+<br>
 # Hi there!:wave: I'm Arcadia Youlten
 # About me 💬 :
 
 ### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
-##### - I also do some digital illustration in my spare time.
+### - I also do some digital illustration in my spare time.
+<br>
+## - Pronouns: She/Her 
 
 <table border="0">
  <tr>
@@ -29,8 +32,6 @@
 </br>
 </br>
 
-
-- 😄 Pronouns: She/Her 
 
 <br>
 
