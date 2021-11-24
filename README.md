@@ -13,6 +13,7 @@
 [<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />]
 [<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png"/>]
 [<img align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />]
+[<img align="left" alt="C++" width="26px" src="https://i.imgur.com/zINUxVf.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
