@@ -1,4 +1,4 @@
-[![About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)]
+![About Me](https://media-exp1.licdn.com/dms/image/C4E16AQEYUaGQC7EtJg/profile-displaybackgroundimage-shrink_350_1400/0/1637790752253?e=1643241600&v=beta&t=3DyaYu68WmemgCLYh0uBybApnGpJIqrXfLjuqCR09wY)
 
 ### Hi there!:wave:
 , I'm Arcadia Youlten
