@@ -2,14 +2,10 @@
 <br>
 <br>
 # Hi there!:wave: I'm Arcadia Youlten
-# About me 💬 :
+## About me 💬 :
+#### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia living in Spain.
 
-### - I'm a Software Engineering & Cybersecurity Enthusiast from Australia.
-### - I also do some digital illustration in my spare time.
-## - Pronouns: She/Her 
-
-<br>
-
+<h3> What am I working on? </h3>
 <table>
  <tr>
     <td><b style="font-size:30px"> 📝 Current Projects: </b></td>
@@ -28,6 +24,29 @@
   <td>Data Mining</td>
  </tr>
 </table>
+<br>
+
+<h3>What Languages and Programs do I use?</h3>
+
+![a](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7e8ebf)
+![a](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kalilinux&logoColor=white&color=7e8ebf)
+![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
+<br>
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9776b8)
+<br>
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
+<br>
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=643578)
+
 
 ### - Hobbies : 
 - Reading Sci-fi and Fantasy Novels :space_invader: :crystal_ball:
@@ -35,27 +54,6 @@
 - Illustration 🎨
 -  
 
-</br>
-</br>
-</br>
-
-
-<br>
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
-<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png"/>
-<img align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />
-<img align="left" alt="C++" width="26px" src="https://i.imgur.com/zINUxVf.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
 
