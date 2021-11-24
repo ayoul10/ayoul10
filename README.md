@@ -11,13 +11,9 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
-[<img align="left" alt="Rust" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true" />][rustrepo]
-
 [<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />][website]
 
-[<img align="left" alt="AWS" width="26px" src="https://github.com/rdimascio/icons/blob/master/icons/color/aws.svg" />][awspost]
-
-[<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][awspost]
+[<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />]
 
 [<img align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />][website]
 
