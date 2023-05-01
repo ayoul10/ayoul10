@@ -12,16 +12,16 @@
     <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
  </tr>
  <tr>
-    <td> Epidemic Replication Program with <a href="https://github.com/Kudos01">Kudos01</a></td>
-    <td> Computer Architecture</td>
+    <td>Cybersecurity Final Thesis (Master's Degree)</td>
+    <td> SOC Management and Incident Response</td>
  </tr>
  <tr>
-   <td>Software Methodology Design Patterns</td>
-   <td>Distributed Architecture</td>
+   <td>Private Work</td>
+   <td>Reverse Engineering</td>
  </tr>
  <tr>
-  <td>Cybersecurity Final Thesis</td>
-  <td>Data Mining</td>
+  <td>Private Work</td>
+  <td>Security Analysis and Forensics</td>
  </tr>
 </table>
 <br>
